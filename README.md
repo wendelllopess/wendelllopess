@@ -5,7 +5,8 @@
 
 ![Wendell GitHub stats](https://github-readme-stats.vercel.app/api?username=wendelllopess&show_icons=true&theme=tokyonight)
 
-## Tecnologias que ultilizo no meu dia a dia
+
+## Tecnologias
 
 <div style="display: inline_block"><br/>
     <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">
@@ -16,4 +17,6 @@
     <img align="center" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="React-Native">
 </div> <br/>
 
-Apaixonado por tecnologia, transformando ideias em realidade digital.
+#### 📚 Atualmente aprendendo React-Native
+
+#### 🚀 Apaixonado por tecnologia, transformando ideias em realidade digital.
